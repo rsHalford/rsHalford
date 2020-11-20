@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my portfolio website
 - 🌱 I’m currently learning data structures and algorithms (and about 100 different things)
-- :mortar-board: I have a BSc in Chemistry and MSc in Sport & Exercise Nutrition
+- :mortar_board: I have a BSc in Chemistry and MSc in Sport & Exercise Nutrition
 - :football: Go Steelers!
 
 ### Find Me Here
