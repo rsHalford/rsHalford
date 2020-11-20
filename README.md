@@ -16,6 +16,7 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br>
+
 ---
 
 <img align="left" alt="rsHalford's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rsHalford&show_icons=true&hide_border=true&include_all_commits&count_private=true&theme=gruvbox" />
