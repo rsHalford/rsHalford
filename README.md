@@ -1,6 +1,6 @@
 ### Hi there, I'm Richard Halford 👋
 
-<hr>
+---
 
 #### I'm an aspiring software developer, who loves to learn about anything and everything.
 
@@ -15,6 +15,9 @@
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+---
+
+<img align="left" alt="rsHalford's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rsHalford&show_icons=true&hide_border=true" />
 
 [website]: https://www.richard-halford.com
 [twitter]: https://www.twitter.com/xHalford_
