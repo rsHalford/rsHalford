@@ -5,7 +5,7 @@
 #### I'm an aspiring software developer, who loves to learn about anything and everything.
 
 - 🔭 I’m currently working on my portfolio website
-- 🌱 I’m currently learning data structures and algorithms (and about 100 different things)
+- 🌱 I’m currently learning data structures and algorithms (and about 100 other things)
 - :mortar_board: I have a BSc in Chemistry and MSc in Sport & Exercise Nutrition
 - :football: Go Steelers!
 
