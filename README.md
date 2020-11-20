@@ -17,7 +17,7 @@
 
 ---
 
-<img align="left" alt="rsHalford's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rsHalford&show_icons=true&hide_border=true" />
+<img align="left" alt="rsHalford's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rsHalford&show_icons=true&hide_border=true&include_all_commits&count_private=true&theme=gruvbox" />
 
 [website]: https://www.richard-halford.com
 [twitter]: https://www.twitter.com/xHalford_
