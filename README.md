@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Richard Halford.
 
 [<img align="left" alt="richard-halford.com" width="30px" src="./assets/website.png" />][website]
-[<img align="left" hspace="18" vspace="3" alt="Twitter" width="32px" src="./assets/twitter.png" />][twitter]
+[<img align="left" hspace="8" vspace="3" alt="Twitter" width="32px" src="./assets/twitter.png" />][twitter]
 [<img align="left" alt="LinkedIn" width="30px" src="./assets/linkedin.png" />][linkedin]
 
 <br>
