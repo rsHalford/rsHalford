@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="174.94572"
+   height="212.22731"
+   viewBox="0 0 174.94572 212.22731"
+   version="1.1"
+   id="svg136"
+   sodipodi:docname="neovim-logo.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata140">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>neovim-logo@2x</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1060"
+     id="namedview138"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.4210567"
+     inkscape:cx="236.94607"
+     inkscape:cy="7.6648183"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg136" />
+  <title
+     id="title95">neovim-logo@2x</title>
+  <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+  <defs
+     id="defs112">
+    <linearGradient
+       x1="49.021549"
+       y1="-0.079835393"
+       x2="49.021549"
+       y2="97.845657"
+       id="linearGradient-1"
+       gradientTransform="scale(0.46153974,2.1666607)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#16B0ED"
+         stop-opacity="0.800235524"
+         offset="0%"
+         id="stop97" />
+      <stop
+         stop-color="#0F59B2"
+         stop-opacity="0.83700023"
+         offset="100%"
+         id="stop99" />
+    </linearGradient>
+    <linearGradient
+       x1="326.17365"
+       y1="-0.069164939"
+       x2="326.17365"
+       y2="98.851547"
+       id="linearGradient-2"
+       gradientTransform="scale(0.46628455,2.1446132)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#7DB643"
+         offset="0%"
+         id="stop102" />
+      <stop
+         stop-color="#367533"
+         offset="100%"
+         id="stop104" />
+    </linearGradient>
+    <linearGradient
+       x1="103.88479"
+       y1="-0.11508821"
+       x2="103.88479"
+       y2="178.55785"
+       id="linearGradient-3"
+       gradientTransform="scale(0.84203823,1.1875945)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#88C649"
+         stop-opacity="0.8"
+         offset="0%"
+         id="stop107" />
+      <stop
+         stop-color="#439240"
+         stop-opacity="0.84"
+         offset="100%"
+         id="stop109" />
+    </linearGradient>
+  </defs>
+  <g
+     id="mark"
+     sketch:type="MSLayerGroup"
+     transform="translate(-0.02714063,0.17297621)"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+    <path
+       d="M 0.02714063,45.458544 45.223647,-0.17297621 45.223646,211.99833 0.02714063,166.89384 Z"
+       id="Left---green"
+       fill="url(#linearGradient-1)"
+       sketch:type="MSShapeGroup"
+       style="fill:url(#linearGradient-1)" />
+    <path
+       d="M 129.33671,45.889361 175.15234,-0.14833204 174.22365,211.99833 129.02714,166.89384 Z"
+       id="Right---blue"
+       fill="url(#linearGradient-2)"
+       sketch:type="MSShapeGroup"
+       transform="matrix(-1,0,0,1,304,0)"
+       style="fill:url(#linearGradient-2)" />
+    <path
+       d="M 45.193511,-0.13667814 162.69969,179.17338 129.81792,212.05433 12.250244,33.141173 Z"
+       id="Cross---blue"
+       fill="url(#linearGradient-3)"
+       sketch:type="MSShapeGroup"
+       style="fill:url(#linearGradient-3)" />
+    <path
+       d="m 45.233948,83.032105 -0.0625,7.0625 -36.2805789,-53.5625 3.3593749,-3.422181 z"
+       id="Shadow"
+       fill-opacity="0.13"
+       fill="#000000"
+       sketch:type="MSShapeGroup" />
+  </g>
+</svg>

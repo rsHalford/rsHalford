@@ -12,9 +12,9 @@
    id="Layer_1"
    x="0px"
    y="0px"
-   width="567"
-   height="156.66"
-   viewBox="0 0 567 156.66"
+   width="136.2226"
+   height="155.08"
+   viewBox="0 0 136.2226 155.08"
    enable-background="new 0 0 560 156.66"
    xml:space="preserve"
    sodipodi:docname="flutter-logo.svg"
@@ -25,7 +25,15 @@
    id="defs1403">
 	
 	
-</defs><sodipodi:namedview
+<clipPath
+   clipPathUnits="userSpaceOnUse"
+   id="clipPath2662"><rect
+     style="opacity:0.540818;fill:#000000;stroke:#ffffff;stroke-width:1.00157;stroke-opacity:0"
+     id="rect2664"
+     width="141.87259"
+     height="156.66"
+     x="0"
+     y="0" /></clipPath></defs><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -39,14 +47,22 @@
    id="namedview1401"
    showgrid="false"
    inkscape:zoom="1.3442229"
-   inkscape:cx="287.19402"
-   inkscape:cy="142.91938"
+   inkscape:cx="46.835922"
+   inkscape:cy="141.33938"
    inkscape:window-x="0"
    inkscape:window-y="20"
    inkscape:window-maximized="0"
-   inkscape:current-layer="Layer_1" />
+   inkscape:current-layer="Layer_1"
+   inkscape:document-rotation="0"
+   inkscape:snap-page="true"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0" />
 <g
-   id="g2070"><g
+   id="g2070"
+   clip-path="url(#clipPath2662)"
+   transform="translate(-5.65,-1.58)"><g
      opacity="0.54"
      enable-background="new    "
      id="g1322"
@@ -120,7 +136,7 @@
    id="g1334">
 						<polygon
    fill="#54c5f8"
-   points="65.59,139.44 131.52,73.51 83.57,73.51 41.62,115.47 "
+   points="83.57,73.51 41.62,115.47 65.59,139.44 131.52,73.51 "
    id="polygon1332" />
 					</g>
 				</g>
@@ -147,7 +163,7 @@
 				<polygon
    clip-path="url(#SVGID_4_)"
    fill="#54c5f8"
-   points="5.65,79.5 83.57,1.58 131.52,1.58 29.63,103.48 "
+   points="131.52,1.58 29.63,103.48 5.65,79.5 83.57,1.58 "
    id="polygon1346" />
 			</g>
 			<g
@@ -172,7 +188,7 @@
 				<polygon
    clip-path="url(#SVGID_6_)"
    fill="#01579b"
-   points="65.59,139.44 83.57,157.42 131.52,157.42 89.56,115.47 "
+   points="131.52,157.42 89.56,115.47 65.59,139.44 83.57,157.42 "
    id="polygon1356" />
 			</g>
 			<g
@@ -215,7 +231,7 @@
 				<polygon
    clip-path="url(#SVGID_8_)"
    fill="url(#SVGID_9_)"
-   points="65.59,139.44 101.15,127.13 89.56,115.47 "
+   points="89.56,115.47 65.59,139.44 101.15,127.13 "
    id="polygon1371"
    style="fill:url(#SVGID_9_)" />
 			</g>
