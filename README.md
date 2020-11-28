@@ -42,16 +42,6 @@
 
 <img align="left" alt="rsHalford's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rsHalford&show_icons=true&hide_border=true&include_all_commits&count_private=true&theme=gruvbox" />
 
-<br>
-
----
-
-[<img align="center" alt="richard-halford.com" width="24px" src="./assets/website.png" />][website]
-[<img align="center" hspace="5" vspace="1" alt="Twitter" width="26px" src="./assets/twitter.png" />][twitter]
-[<img align="center" alt="LinkedIn" width="24px" src="./assets/linkedin.png" />][linkedin]
-
-<br>
-
 [website]: https://www.richard-halford.com
 [twitter]: https://www.twitter.com/richardhalford_
 [linkedin]: https://www.linkedin.com/in/richard-halford
