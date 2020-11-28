@@ -1,10 +1,8 @@
-## 👋 Hi there, I'm Richard Halford.
+### 👋 Hi there, I'm Richard Halford.
 
 [![Website](https://img.shields.io/website?label=richard-halford.com&style=for-the-badge&url=https%3A%2F%2Fwww.richard-halford.com)](https://www.richard-halford.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/richardhalford_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frichardhalford_&screen_name=richardhalford_)
 [![LinkedIn Follow](https://img.shields.io/badge/richard--halford-%20-%2F--?color=0077b5&logo=linkedin&logoColor=0077b5&style=for-the-badge)](https://www.linkedin.com/in/richard-halford)
-
-<br>
 
 ---
 
