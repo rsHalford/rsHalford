@@ -48,7 +48,7 @@
 <br>
 <br>
 
-# [Blog Posts](https://www.xhalford.com/)
+## [📰 Blog Posts](https://www.xhalford.com/)
 <!-- BLOG-POST-LIST:START -->
 - [How to improve the Arch Linux package manager](https://xhalford.com/how-to-improve-the-arch-linux-package-manager/)
 - [Using hook scripts with Certbot](https://xhalford.com/using-hook-scripts-with-certbot/)
@@ -57,3 +57,9 @@
 - [Part 4: Arch Linux Installation Guide](https://xhalford.com/part-4-arch-linux-installation-guide/)
 <!-- BLOG-POST-LIST:END -->
 - [View more posts](https://www.xhalford.com/)
+
+<br>
+
+## [📚 Currently Reading](https://www.goodreads.com/user/show/108397109-richard)
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
