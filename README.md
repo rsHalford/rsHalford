@@ -50,11 +50,11 @@
 
 ## [📰 Blog Posts](https://www.xhalford.com/)
 <!-- BLOG-POST-LIST:START -->
+- [Setting up virtual machines on Arch Linux](https://xhalford.com/setting-up-virtual-machines-on-arch-linux/)
 - [How to remove Windows from Dual-Boot](https://xhalford.com/how-to-remove-windows-from-dual-boot/)
 - [Bing Wallpaper: Without Bing](https://xhalford.com/bing-wallpaper-without-bing/)
 - [How to improve the Arch Linux package manager](https://xhalford.com/how-to-improve-the-arch-linux-package-manager/)
 - [Using hook scripts with Certbot](https://xhalford.com/using-hook-scripts-with-certbot/)
-- [GoDo: A command line todo list application](https://xhalford.com/godo-a-command-line-todo-list-application/)
 <!-- BLOG-POST-LIST:END -->
 - [View more posts](https://www.xhalford.com/)
 
