@@ -63,5 +63,5 @@
 ## [📚 Currently Reading](https://www.goodreads.com/user/show/108397109-richard)
 <!-- GOODREADS-LIST:START -->
 - [Data Structures and Algorithms in Python](https://www.goodreads.com/review/show/4179537574?utm_medium=api&utm_source=rss) by Michael T. Goodrich (⭐️4.12)
-- [Troy](https://www.goodreads.com/review/show/3766234363?utm_medium=api&utm_source=rss) by Stephen Fry (⭐️4.4)
+- [Troy](https://www.goodreads.com/review/show/3766234363?utm_medium=api&utm_source=rss) by Stephen Fry (⭐️4.39)
 <!-- GOODREADS-LIST:END -->
