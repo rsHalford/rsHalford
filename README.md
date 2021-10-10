@@ -30,6 +30,7 @@
   <img align="center" hspace="5" alt="Flutter" height="28px" width="30px" src="./assets/languages/flutter-logo.svg" />
   <img align="center" hspace="5" alt="Firebase" height="32px" width="30px" src="./assets/languages/firebase-logo.svg" />
   <img align="center" hspace="5" alt="Postgresql" height="35px" width="28px" src="./assets/languages/postgresql-logo.svg" />
+  <img align="center" hspace="5" alt="Docker" height="32px" width="45px" src="./assets/languages/docker-logo.svg" />
   <img align="center" hspace="5" alt="Git" height="32px" width="30px" src="./assets/languages/git-logo.svg" />
   <img align="center" hspace="5" alt="Linux" height="30px" src="./assets/languages/tux-logo.svg" />
   <img align="center" hspace="5" alt="Nvim" height="26px" width="30px" src="./assets/languages/neovim-logo.svg" />
@@ -50,11 +51,11 @@
 
 ## [📰 Blog Posts](https://www.xhalford.com/)
 <!-- BLOG-POST-LIST:START -->
-- [Setting up virtual machines on Arch Linux](https://xhalford.com/setting-up-virtual-machines-on-arch-linux/)
-- [How to remove Windows from Dual-Boot](https://xhalford.com/how-to-remove-windows-from-dual-boot/)
-- [Bing Wallpaper: Without Bing](https://xhalford.com/bing-wallpaper-without-bing/)
 - [How to improve the Arch Linux package manager](https://xhalford.com/how-to-improve-the-arch-linux-package-manager/)
 - [Using hook scripts with Certbot](https://xhalford.com/using-hook-scripts-with-certbot/)
+- [GoDo: A command line todo list application](https://xhalford.com/godo-a-command-line-todo-list-application/)
+- [Part 5: Arch Linux Installation Guide](https://xhalford.com/part-5-arch-linux-installation-guide/)
+- [Part 4: Arch Linux Installation Guide](https://xhalford.com/part-4-arch-linux-installation-guide/)
 <!-- BLOG-POST-LIST:END -->
 - [View more posts](https://www.xhalford.com/)
 
@@ -62,6 +63,4 @@
 
 ## [📚 Currently Reading](https://www.goodreads.com/user/show/108397109-richard)
 <!-- GOODREADS-LIST:START -->
-- [Troy](https://www.goodreads.com/review/show/3766234363?utm_medium=api&utm_source=rss) by Stephen Fry (⭐️4.4)
-- [Data Structures and Algorithms in Python](https://www.goodreads.com/review/show/4179537574?utm_medium=api&utm_source=rss) by Michael T. Goodrich (⭐️4.12)
 <!-- GOODREADS-LIST:END -->
