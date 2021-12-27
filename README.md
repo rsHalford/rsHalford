@@ -64,5 +64,6 @@
 ## [📚 Currently Reading](https://www.goodreads.com/user/show/108397109-richard)
 <!-- GOODREADS-LIST:START -->
 - [Troy](https://www.goodreads.com/review/show/3766234363?utm_medium=api&utm_source=rss) by Stephen Fry (⭐️4.39)
+- [Alice in Wonderland](https://www.goodreads.com/review/show/4413508379?utm_medium=api&utm_source=rss) by Jane Carruth (⭐️4.02)
 - [Data Structures and Algorithms in Python](https://www.goodreads.com/review/show/4179537574?utm_medium=api&utm_source=rss) by Michael T. Goodrich (⭐️4.12)
 <!-- GOODREADS-LIST:END -->
