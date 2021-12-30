@@ -63,6 +63,5 @@
 
 ## [📚 Currently Reading](https://www.goodreads.com/user/show/108397109-richard)
 <!-- GOODREADS-LIST:START -->
-- [The Communist Manifesto](https://www.goodreads.com/review/show/3650199059?utm_medium=api&utm_source=rss) by Karl Marx (⭐️3.61)
 - [Data Structures and Algorithms in Python](https://www.goodreads.com/review/show/4179537574?utm_medium=api&utm_source=rss) by Michael T. Goodrich (⭐️4.12)
 <!-- GOODREADS-LIST:END -->
