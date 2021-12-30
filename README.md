@@ -63,5 +63,6 @@
 
 ## [📚 Currently Reading](https://www.goodreads.com/user/show/108397109-richard)
 <!-- GOODREADS-LIST:START -->
+- [Nineteen Eighty-Four](https://www.goodreads.com/review/show/3131557454?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.28)
 - [Data Structures and Algorithms in Python](https://www.goodreads.com/review/show/4179537574?utm_medium=api&utm_source=rss) by Michael T. Goodrich (⭐️4.12)
 <!-- GOODREADS-LIST:END -->
