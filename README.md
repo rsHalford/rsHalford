@@ -9,7 +9,7 @@
 <div align="center">
 
   [![Website](https://img.shields.io/website?label=BLOG&color=fb4934&labelColor=cc241d&logoColor=ffffff&style=for-the-badge&url=https%3A%2F%2Fwww.xhalford.com)](https://www.xhalford.com)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/richardhalford_?label=FOLLOW&color=83a598&labelColor=458588&logoColor=ffffff&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frichardhalford_&screen_name=richardhalford_)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/rshalford_?label=FOLLOW&color=83a598&labelColor=458588&logoColor=ffffff&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frshalford_&screen_name=rshalford_)
   [![GitHub Follow](https://img.shields.io/github/followers/rsHalford?label=FOLLOW&color=fe8019&labelColor=d65d0e&logoColor=ffffff&logo=github&style=for-the-badge)](https://github.com/rsHalford)
   [![Website](https://img.shields.io/website?label=CONTACT&color=d3869b&labelColor=b16286&logoColor=ffffff&style=for-the-badge&url=https%3A%2F%2Fcontact.xhalford.com)](https://contact.xhalford.com)
 
