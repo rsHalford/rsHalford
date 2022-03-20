@@ -65,5 +65,5 @@
 <!-- GOODREADS-LIST:START -->
 - [Meditations](https://www.goodreads.com/review/show/3650256187?utm_medium=api&utm_source=rss) by Marcus Aurelius (⭐️4.19)
 - [Data Structures and Algorithms in Python](https://www.goodreads.com/review/show/4179537574?utm_medium=api&utm_source=rss) by Michael T. Goodrich (⭐️4.12)
-- [Crime and Punishment](https://www.goodreads.com/review/show/4383439531?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️4.31)
+- [Crime and Punishment](https://www.goodreads.com/review/show/4383439531?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️4.3)
 <!-- GOODREADS-LIST:END -->
