@@ -65,7 +65,7 @@
 <!-- GOODREADS-LIST:START -->
 - [The Little Schemer](https://www.goodreads.com/review/show/5123908622?utm_medium=api&utm_source=rss) by Daniel P. Friedman (⭐️4.28)
 - [Batman: The Dark Knight Returns](https://www.goodreads.com/review/show/4383008404?utm_medium=api&utm_source=rss) by Frank Miller (⭐️4.26)
-- [The Rust Programming Language](https://www.goodreads.com/review/show/5135106649?utm_medium=api&utm_source=rss) by Steve Klabnik (⭐️4.46)
+- [The Rust Programming Language](https://www.goodreads.com/review/show/5135106649?utm_medium=api&utm_source=rss) by Steve Klabnik (⭐️4.47)
 - [Scaling Up: How a Few Companies Make It...and Why the Rest Don't (Rockefeller Habits 2.0)](https://www.goodreads.com/review/show/4831109843?utm_medium=api&utm_source=rss) by Verne Harnish (⭐️4.29)
 - [The Go Programming Language](https://www.goodreads.com/review/show/4383348659?utm_medium=api&utm_source=rss) by Alan A.A. Donovan (⭐️4.46)
 - [Crime and Punishment](https://www.goodreads.com/review/show/4383439531?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️4.31)
