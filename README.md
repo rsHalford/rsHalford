@@ -8,10 +8,8 @@
 
 <div align="center">
 
-  [![Website](https://img.shields.io/website?label=BLOG&color=fb4934&labelColor=cc241d&logoColor=ffffff&style=for-the-badge&url=https%3A%2F%2Fwww.xhalford.com)](https://www.xhalford.com)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/rshalford_?label=FOLLOW&color=83a598&labelColor=458588&logoColor=ffffff&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frshalford_&screen_name=rshalford_)
+  [![Website](https://img.shields.io/website?label=BLOG&color=fb4934&labelColor=cc241d&logoColor=ffffff&style=for-the-badge&url=https%3A%2F%2Fwww.rshalford.com)](https://www.rshalford.com)
   [![GitHub Follow](https://img.shields.io/github/followers/rsHalford?label=FOLLOW&color=fe8019&labelColor=d65d0e&logoColor=ffffff&logo=github&style=for-the-badge)](https://github.com/rsHalford)
-  [![Website](https://img.shields.io/website?label=CONTACT&color=d3869b&labelColor=b16286&logoColor=ffffff&style=for-the-badge&url=https%3A%2F%2Fcontact.xhalford.com)](https://contact.xhalford.com)
 
 </div>
 
@@ -49,15 +47,15 @@
 <br>
 <br>
 
-## [📰 Blog Posts](https://www.xhalford.com/)
+## [📰 Blog Posts](https://www.rshalford.com/)
 <!-- BLOG-POST-LIST:START -->
-- [Setting up virtual machines on Arch Linux](https://xhalford.com/setting-up-virtual-machines-on-arch-linux/)
-- [How to remove Windows from Dual-Boot](https://xhalford.com/how-to-remove-windows-from-dual-boot/)
-- [Bing Wallpaper: Without Bing](https://xhalford.com/bing-wallpaper-without-bing/)
-- [How to improve the Arch Linux package manager](https://xhalford.com/how-to-improve-the-arch-linux-package-manager/)
-- [Using hook scripts with Certbot](https://xhalford.com/using-hook-scripts-with-certbot/)
+- [Setting up virtual machines on Arch Linux](https://rshalford.com/blog/setting-up-virtual-machines-on-arch-linux/)
+- [How to remove Windows from Dual-Boot](https://rshalford.com/blog/how-to-remove-windows-from-dual-boot/)
+- [Bing Wallpaper: Without Bing](https://rshalford.com/blog/bing-wallpaper-without-bing/)
+- [How to improve the Arch Linux package manager](https://rshalford.com/blog/how-to-improve-the-arch-linux-package-manager/)
+- [Using hook scripts with Certbot](https://rshalford.com/blog/using-hook-scripts-with-certbot/)
 <!-- BLOG-POST-LIST:END -->
-- [View more posts](https://www.xhalford.com/)
+- [View more posts](https://www.rshalford.com/)
 
 <br>
 
