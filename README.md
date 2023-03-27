@@ -49,11 +49,11 @@
 
 ## [📰 Blog Posts](https://www.rshalford.com/)
 <!-- BLOG-POST-LIST:START -->
-- [Setting up virtual machines on Arch Linux](https://rshalford.com/blog/setting-up-virtual-machines-on-arch-linux/)
-- [How to remove Windows from Dual-Boot](https://rshalford.com/blog/how-to-remove-windows-from-dual-boot/)
-- [Bing Wallpaper: Without Bing](https://rshalford.com/blog/bing-wallpaper-without-bing/)
-- [How to improve the Arch Linux package manager](https://rshalford.com/blog/how-to-improve-the-arch-linux-package-manager/)
-- [Using hook scripts with Certbot](https://rshalford.com/blog/using-hook-scripts-with-certbot/)
+- [Framework? I sure hope it does](https://www.rshalford.com/blog/framework-i-sure-hope-it-does/)
+- [Setting up virtual machines on Arch Linux](https://www.rshalford.com/blog/setting-up-virtual-machines-on-arch-linux/)
+- [How to remove Windows from Dual-Boot](https://www.rshalford.com/blog/how-to-remove-windows-from-dual-boot/)
+- [Bing Wallpaper: Without Bing](https://www.rshalford.com/blog/bing-wallpaper-without-bing/)
+- [How to improve the Arch Linux package manager](https://www.rshalford.com/blog/how-to-improve-the-arch-linux-package-manager/)
 <!-- BLOG-POST-LIST:END -->
 - [View more posts](https://www.rshalford.com/)
 
