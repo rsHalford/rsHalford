@@ -1,20 +1,3 @@
-<p style="text-align:center;font-family:monospace;font-size:36px;color:#58a6ff;">
-  Hi, I'm Richard
-</p>
-
-<br>
-
-
-<div align="center">
-  <img align="center" hspace="5" alt="Go" height="32px" width="54" src="./assets/languages/go-logo.svg" />
-  <img align="center" hspace="5" alt="Nix" height="32px" width="54" src="./assets/languages/nix-logo.svg" />
-  <img align="center" hspace="5" alt="Python" height="32px" src="./assets/languages/python-logo.svg" />
-  <img align="center" hspace="5" alt="TypeScript" height="30px" width="35px" src="./assets/languages/typescript-logo.svg" />
-  <img align="center" hspace="5" alt="Zig" height="30px" width="35px" src="./assets/languages/zig-logo.svg" />
-</div>
-
-<br>
-
 ## [📰 Blog Posts](https://www.rshalford.com/)
 <!-- BLOG-POST-LIST:START -->
 - [Framework? I sure hope it does](https://www.rshalford.com/blog/framework-i-sure-hope-it-does/)
@@ -40,8 +23,18 @@
 
 <br>
 
-<div align="center">
+<div>
 
   <img align="center" alt="rsHalford's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rsHalford&show_icons=true&hide_border=true&include_all_commits&count_private=true&theme=react" />
 
+</div>
+
+<br>
+
+<div>
+  <img align="center" hspace="5" alt="Go" height="32px" width="54" src="./assets/languages/go-logo.svg" />
+  <img align="center" hspace="5" alt="Nix" height="32px" width="54" src="./assets/languages/nix-logo.svg" />
+  <img align="center" hspace="5" alt="Python" height="32px" src="./assets/languages/python-logo.svg" />
+  <img align="center" hspace="5" alt="TypeScript" height="30px" width="35px" src="./assets/languages/typescript-logo.svg" />
+  <img align="center" hspace="5" alt="Zig" height="30px" width="35px" src="./assets/languages/zig-logo.svg" />
 </div>
