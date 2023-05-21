@@ -6,9 +6,6 @@
 - [Bing Wallpaper: Without Bing](https://www.rshalford.com/blog/bing-wallpaper-without-bing/)
 - [How to improve the Arch Linux package manager](https://www.rshalford.com/blog/how-to-improve-the-arch-linux-package-manager/)
 <!-- BLOG-POST-LIST:END -->
-<ul style="margin-top:-16px;">
-    <li><a href="https://www.rshalford.com">View more posts</a></li>
-</ul>
 
 ## [📚 Currently Reading](https://www.goodreads.com/user/show/108397109-richard)
 <!-- GOODREADS-LIST:START -->
