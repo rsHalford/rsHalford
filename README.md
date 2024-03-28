@@ -9,6 +9,7 @@
 
 ## [📚 Currently Reading](https://www.goodreads.com/user/show/108397109-richard)
 <!-- GOODREADS-LIST:START -->
+- [Unruly: The Ridiculous History of England's Kings and Queens](https://www.goodreads.com/review/show/5988158895?utm_medium=api&utm_source=rss) by David   Mitchell (⭐️4.19)
 - [The Go Programming Language](https://www.goodreads.com/review/show/4383348659?utm_medium=api&utm_source=rss) by Alan A.A. Donovan (⭐️4.46)
 - [Crime and Punishment](https://www.goodreads.com/review/show/4383439531?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️4.37)
 - [Meditations](https://www.goodreads.com/review/show/3650256187?utm_medium=api&utm_source=rss) by Marcus Aurelius (⭐️4.23)
