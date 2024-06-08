@@ -9,7 +9,7 @@
 
 ## [📚 Currently Reading](https://www.goodreads.com/user/show/108397109-richard)
 <!-- GOODREADS-LIST:START -->
-- [Frozen Hell: The Russo-Finnish Winter War of 1939-1940](https://www.goodreads.com/review/show/4383431492?utm_medium=api&utm_source=rss) by William R. Trotter (⭐️4.13)
+- [Frozen Hell: The Russo-Finnish Winter War of 1939-1940](https://www.goodreads.com/review/show/4383431492?utm_medium=api&utm_source=rss) by William R. Trotter (⭐️4.12)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/3650226527?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.38)
 <!-- GOODREADS-LIST:END -->
 
