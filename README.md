@@ -9,7 +9,7 @@
 
 ## [📚 Currently Reading](https://www.goodreads.com/user/show/108397109-richard)
 <!-- GOODREADS-LIST:START -->
-- [Odyssey (Stephen Fry's Great Mythology, #4)](https://www.goodreads.com/review/show/4420060086?utm_medium=api&utm_source=rss) by Stephen Fry (⭐️4.38)
+- [Odyssey (Stephen Fry's Great Mythology, #4)](https://www.goodreads.com/review/show/4420060086?utm_medium=api&utm_source=rss) by Stephen Fry (⭐️4.39)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/3650226527?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.37)
 <!-- GOODREADS-LIST:END -->
 
