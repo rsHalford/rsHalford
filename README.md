@@ -9,6 +9,7 @@
 
 ## [📚 Currently Reading](https://www.goodreads.com/user/show/108397109-richard)
 <!-- GOODREADS-LIST:START -->
+- [The Go Programming Language](https://www.goodreads.com/review/show/4383348659?utm_medium=api&utm_source=rss) by Alan A.A. Donovan (⭐️4.44)
 - [Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character](https://www.goodreads.com/review/show/3650186771?utm_medium=api&utm_source=rss) by Richard P. Feynman (⭐️4.27)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/3650226527?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.37)
 <!-- GOODREADS-LIST:END -->
