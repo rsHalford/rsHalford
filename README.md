@@ -11,7 +11,7 @@
 <!-- GOODREADS-LIST:START -->
 - [Crime and Punishment](https://www.goodreads.com/review/show/4383439531?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️4.36)
 - [The Go Programming Language](https://www.goodreads.com/review/show/4383348659?utm_medium=api&utm_source=rss) by Alan A.A. Donovan (⭐️4.44)
-- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/3650226527?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.37)
+- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/3650226527?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
 
 <br>
