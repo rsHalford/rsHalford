@@ -9,7 +9,7 @@
 
 ## [📚 Currently Reading](https://www.goodreads.com/user/show/108397109-richard)
 <!-- GOODREADS-LIST:START -->
-- [The Go Programming Language](https://www.goodreads.com/review/show/4383348659?utm_medium=api&utm_source=rss) by Alan A.A. Donovan (⭐️4.44)
+- [The Go Programming Language](https://www.goodreads.com/review/show/4383348659?utm_medium=api&utm_source=rss) by Alan A.A. Donovan (⭐️4.45)
 <!-- GOODREADS-LIST:END -->
 
 <br>
