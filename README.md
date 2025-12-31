@@ -11,11 +11,3 @@
 <!-- GOODREADS-LIST:START -->
 - [The Go Programming Language](https://www.goodreads.com/review/show/4383348659?utm_medium=api&utm_source=rss) by Alan A.A. Donovan (⭐️4.44)
 <!-- GOODREADS-LIST:END -->
-
-<br>
-
-<div>
-
-  <img align="center" alt="rsHalford's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rsHalford&show_icons=true&hide_border=true&include_all_commits&count_private=true&theme=react" />
-
-</div>
